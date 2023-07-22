@@ -1,0 +1,9 @@
+1, Cop Costume Set, Cartmax, $15, 20
+2, Formal Suite Set, Megaplex, $14.5, 15
+3, Fairy Costume Set, DollarSmart, $18, 24
+4, Red Plain Saree, Red Chillies, $20, 100
+5, Webbed Spider-Man, SuperHeroTM, $30, 50
+6, White Dhoti Set, IndiraWears, $10, 0
+7, Original Lungi, LungiDance, $15, 15
+8, Ninja Hattori Set, Nickelodian, $21, 22
+9, High School Outfit, 13ReasonsY, $25, 10 
